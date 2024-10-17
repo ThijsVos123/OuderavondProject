@@ -1116,4 +1116,8 @@ a:focus {
 .lijst .row .detail-box a:hover {
   background-color: #0a97b0;
 }
+
+.links {
+  display: block;
+}
 /*# sourceMappingURL=style.css.map */
